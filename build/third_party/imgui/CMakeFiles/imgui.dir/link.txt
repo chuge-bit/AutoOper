@@ -1,0 +1,2 @@
+C:\Zenvir\mingw64\bin\ar.exe qc libimgui.a CMakeFiles/imgui.dir/imgui.cpp.obj CMakeFiles/imgui.dir/imgui_draw.cpp.obj CMakeFiles/imgui.dir/imgui_impl_dx11.cpp.obj CMakeFiles/imgui.dir/imgui_impl_win32.cpp.obj CMakeFiles/imgui.dir/imgui_tables.cpp.obj CMakeFiles/imgui.dir/imgui_widgets.cpp.obj
+C:\Zenvir\mingw64\bin\ranlib.exe libimgui.a

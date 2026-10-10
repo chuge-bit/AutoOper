@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Zproject_D/MyProject/AutoOper/build/cmake_install.cmake",
+		"D:/Zproject_D/MyProject/AutoOper/build/third_party/imgui/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
